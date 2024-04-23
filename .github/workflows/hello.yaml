@@ -9,5 +9,5 @@ jobs:
   say_hello:
     runs-on: ubuntu-18.04
     steps:
-      - name: Say hello
-        run: echo "Hello, world!"
+      - name: Hello world
+        run: echo "Hello, Guille!"
